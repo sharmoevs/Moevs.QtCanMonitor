@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/2cpu_refresh.png</file>
+        <file>images/arrow_right_green.png</file>
+        <file>images/clear.png</file>
+        <file>images/connect.png</file>
+        <file>images/cpu_edit.png</file>
+        <file>images/cpu_flash.png</file>
+        <file>images/cpu_read.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/disk_blue.png</file>
+        <file>images/edit.png</file>
+        <file>images/fire.png</file>
+        <file>images/folder_document.png</file>
+        <file>images/hRotate - копия.png</file>
+        <file>images/hRotate.png</file>
+        <file>images/refresh.png</file>
+        <file>images/refresh2.png</file>
+        <file>images/refreshCom.png</file>
+        <file>images/settings.png</file>
+        <file>images/spellcheck.png</file>
+        <file>images/tape_measure1.png</file>
+        <file>images/vRotate - копия.png</file>
+        <file>images/vRotate.png</file>
+        <file>images/warning.png</file>
+        <file>images/window_time.png</file>
+    </qresource>
+</RCC>
